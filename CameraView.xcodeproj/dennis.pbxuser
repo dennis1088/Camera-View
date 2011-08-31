@@ -1,0 +1,273 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1028, 1010}}";
+			sepNavSelRange = "{43, 0}";
+			sepNavVisRange = "{0, 43}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* CameraViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1028, 985}}";
+			sepNavSelRange = "{303, 0}";
+			sepNavVisRange = "{0, 915}";
+			sepNavWindowFrame = "{{15, 184}, {1749, 1229}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* CameraViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1426, 2418}}";
+			sepNavSelRange = "{4633, 0}";
+			sepNavVisRange = "{3199, 1818}";
+			sepNavWindowFrame = "{{15, 184}, {1749, 1229}}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* CameraView_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1028, 985}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 151}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9518852B1405610100273825 /* CameraView */;
+		activeTarget = 8D1107260486CEB800E47090 /* CameraView */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* CameraView */,
+		);
+		codeSenseManager = 951885411405611200273825 /* Code sense */;
+		executables = (
+			9518852B1405610100273825 /* CameraView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					738,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					850,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					810,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 336493725;
+			PBXWorkspaceStateSaveDate = 336493725;
+		};
+		perUserProjectItems = {
+			9518857614056DC300273825 = 9518857614056DC300273825 /* PBXTextBookmark */;
+			9518857714056DC300273825 = 9518857714056DC300273825 /* PBXTextBookmark */;
+			952A7D861406C67A009A2922 = 952A7D861406C67A009A2922 /* PBXTextBookmark */;
+			952A7D871406C67A009A2922 = 952A7D871406C67A009A2922 /* PBXBookmark */;
+			952A7D881406C67A009A2922 = 952A7D881406C67A009A2922 /* PlistBookmark */;
+			95AEAAE7140D815C00687F6C = 95AEAAE7140D815C00687F6C /* PBXTextBookmark */;
+			95AEAAE8140D815C00687F6C = 95AEAAE8140D815C00687F6C /* PBXTextBookmark */;
+			95AEAAE9140D815C00687F6C = 95AEAAE9140D815C00687F6C /* PBXTextBookmark */;
+			95AEAB0C140D85A600687F6C = 95AEAB0C140D85A600687F6C /* PBXTextBookmark */;
+			95C9E16F140E7CB500C40976 /* PBXTextBookmark */ = 95C9E16F140E7CB500C40976 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 951885401405611200273825 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* CameraView */ = {
+		activeExec = 0;
+		executables = (
+			9518852B1405610100273825 /* CameraView */,
+		);
+	};
+	8D1107310486CEB800E47090 /* CameraView-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{674, -190}, {1749, 1229}}";
+		};
+	};
+	9518852B1405610100273825 /* CameraView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = NO;
+				name = NSZombieEnabled;
+				value = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CameraView;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	951885401405611200273825 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	951885411405611200273825 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9518857614056DC300273825 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "CameraViewController.m: 22";
+		rLen = 0;
+		rLoc = 384;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	9518857714056DC300273825 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "CameraViewController.h: 22";
+		rLen = 0;
+		rLoc = 568;
+		rType = 0;
+		vrLen = 569;
+		vrLoc = 0;
+	};
+	952A7D861406C67A009A2922 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 43;
+		rType = 0;
+		vrLen = 43;
+		vrLoc = 0;
+	};
+	952A7D871406C67A009A2922 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 952A7D5B1406C2E3009A2922 /* Icon.icns */;
+	};
+	952A7D881406C67A009A2922 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CameraView-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/dennis/Documents/CameraView/CameraView-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	95AEAAE7140D815C00687F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* CameraView_Prefix.pch */;
+		name = "CameraView_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 151;
+		vrLoc = 0;
+	};
+	95AEAAE8140D815C00687F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* CameraViewAppDelegate.h */;
+		name = "CameraViewAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	95AEAAE9140D815C00687F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'CameraViewAppDelegate' may not respond to '-start'";
+		fRef = 256AC3D90F4B6AC300CF3369 /* CameraViewAppDelegate.m */;
+		rLen = 1;
+		rLoc = 159;
+		rType = 1;
+	};
+	95AEAB0C140D85A600687F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* CameraViewAppDelegate.m */;
+		name = "CameraViewAppDelegate.m: 167";
+		rLen = 0;
+		rLoc = 4614;
+		rType = 0;
+		vrLen = 1823;
+		vrLoc = 3199;
+	};
+	95C9E16F140E7CB500C40976 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* CameraViewAppDelegate.m */;
+		name = "CameraViewAppDelegate.m: 167";
+		rLen = 0;
+		rLoc = 4614;
+		rType = 0;
+		vrLen = 1818;
+		vrLoc = 3199;
+	};
+}
