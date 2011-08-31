@@ -156,7 +156,6 @@
     if (self.isRunning) {
 	
     } else {
-		NSLog(@"Im pressed and starting");
         [self start];
     }
 	

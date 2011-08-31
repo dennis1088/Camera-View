@@ -1,0 +1,344 @@
+TCameraView
+v7
+r0
+t336504002.151900
+cCheck dependencies
+cProcessInfoPlistFile /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Info.plist CameraView-Info.plist
+cCopyStringsFile /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/dennis/Documents/CameraView/English.lproj/MainMenu.xib
+cCpResource build/Release/CameraView.app/Contents/Resources/Icon.icns Icon.icns
+cProcessPCH /var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-ajhyevrthwdgjefhhwxokvejyirj/CameraView_Prefix.pch.gch CameraView_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-hipfmvqpbutyznerpscdgsnrtjpz/CameraView_Prefix.pch.gch CameraView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/main.o /Users/dennis/Documents/CameraView/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraViewAppDelegate.o /Users/dennis/Documents/CameraView/CameraViewAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraView normal x86_64
+cCompileC build/CameraView.build/Release/CameraView.build/Objects-normal/i386/main.o /Users/dennis/Documents/CameraView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraViewAppDelegate.o /Users/dennis/Documents/CameraView/CameraViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraView normal i386
+cCreateUniversalBinary /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/MacOS/CameraView normal "x86_64 i386"
+cGenerateDSYMFile /Users/dennis/Documents/CameraView/build/Release/CameraView.app.dSYM /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/MacOS/CameraView
+cTouch /Users/dennis/Documents/CameraView/build/Release/CameraView.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QTKit.framework/Headers/QTKit.h
+c000000004CC35B7E000000000000044A
+t1287871358
+s1098
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QTKit.framework/QTKit
+c000000004D5A27910000000000084B90
+t1297754001
+s543632
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004D5F6D1F000000000000A5E0
+t1298099487
+s42464
+
+N/Users/dennis/Documents/CameraView/CameraViewAppDelegate.h
+c000000004E5D442A0000000000000393
+t1314735146
+s915
+i<Cocoa/Cocoa.h>
+i<QTKit/QTKit.h>
+
+N/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m
+c000000004E5E6BC40000000000001372
+t1314810820
+s4978
+i"CameraViewAppDelegate.h"
+
+N/Users/dennis/Documents/CameraView/CameraView_Prefix.pch
+c000000004E5667990000000000000097
+t1314285465
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/dennis/Documents/CameraView/English.lproj/InfoPlist.strings
+c000000004E5686BD000000000000002B
+t1314293437
+s43
+
+N/Users/dennis/Documents/CameraView/English.lproj/MainMenu.xib
+c000000004E5E6D370000000000034FB7
+t1314811191
+s217015
+
+N/Users/dennis/Documents/CameraView/Icon.icns
+c000000004E568A8C000000000000A28D
+t1314294412
+s41613
+
+N/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraView
+t1314811035
+s19548
+
+N/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraView.LinkFileList
+c000000004E5E6BC400000000000000ED
+t1314810820
+s237
+
+N/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraViewAppDelegate.o
+t1314810826
+s31732
+
+N/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/main.o
+t1314810824
+s4844
+
+N/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraView
+t1314811035
+s17696
+
+N/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraView.LinkFileList
+c000000004E5E6BC400000000000000F1
+t1314810820
+s241
+
+N/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraViewAppDelegate.o
+t1314810825
+s44516
+
+N/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/main.o
+t1314810824
+s5048
+
+N/Users/dennis/Documents/CameraView/build/Release/CameraView.app
+t1314811194
+s102
+
+N/Users/dennis/Documents/CameraView/build/Release/CameraView.app.dSYM
+t1314811035
+s102
+
+N/Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Info.plist
+t1314811035
+s1350
+
+N/Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/MacOS/CameraView
+t1314811035
+s44124
+
+N/Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/PkgInfo
+t1314811035
+s8
+
+N/Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1314811035
+s88
+
+N/Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Resources/English.lproj/MainMenu.nib
+t1314811194
+s40324
+
+N/Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Resources/Icon.icns
+t1314811035
+s41613
+
+N/Users/dennis/Documents/CameraView/main.m
+c000000004E56679900000000000000FA
+t1314285465
+s250
+i<Cocoa/Cocoa.h>
+
+N/Users/dennis/Downloads/BWToolkit/BWToolkitFramework.framework/BWToolkitFramework
+c000000004B596EAB00000000000E843C
+t1264152235
+s951356
+
+N/var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-ajhyevrthwdgjefhhwxokvejyirj/CameraView_Prefix.pch.gch
+t1314810824
+s52958992
+
+N/var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-hipfmvqpbutyznerpscdgsnrtjpz/CameraView_Prefix.pch.gch
+t1314810824
+s55592752
+
+NCameraView-Info.plist
+c000000004E568B4B00000000000003F3
+t1314294603
+s1011
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies336504002#336504002#0(0"0(0#1#0"8605776512#0"0#
+
+CCompileC build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraViewAppDelegate.o /Users/dennis/Documents/CameraView/CameraViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336503624.891350
+e336503626.402053
+r1
+xCompileC
+xbuild/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraViewAppDelegate.o
+x/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m: In function '-[CameraViewAppDelegate startStopAction:]':
+o/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: 'CameraViewAppDelegate' may not respond to '-start'
+o/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: (Messages without a matching method signature
+o/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: will be assumed to return 'id' and accept
+o/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: '...' as arguments.)
+lSLF07#2@66"Compile /Users/dennis/Documents/CameraView/CameraViewAppDelegate.m336503624#336503626#0(570"/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m: In function '-[CameraViewAppDelegate startStopAction:]':/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: 'CameraViewAppDelegate' may not respond to '-start'/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: (Messages without a matching method signature/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: will be assumed to return 'id' and accept/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: '...' as arguments.)2(22@51"'CameraViewAppDelegate' may not respond to '-start'336503626#117#125#0(6@58"/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m336503620#159#0#159#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)336503626#242#119#0(6@58"/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m336503620#159#0#159#0#0"0(0#0#58"/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m8604152320#1593"    cd /Users/dennis/Documents/CameraView    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-generated-files.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-own-target-headers.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-all-target-headers.hmap -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-project-headers.hmap -F/Users/dennis/Documents/CameraView/build/Release -F/Users/dennis/Documents/CameraView/../../Downloads/BWToolkit -I/Users/dennis/Documents/CameraView/build/Release/include -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources/i386 -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources -include /var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-hipfmvqpbutyznerpscdgsnrtjpz/CameraView_Prefix.pch -c /Users/dennis/Documents/CameraView/CameraViewAppDelegate.m -o /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraViewAppDelegate.o0#
+
+CCompileC build/CameraView.build/Release/CameraView.build/Objects-normal/i386/main.o /Users/dennis/Documents/CameraView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336503624.890924
+e336503624.961628
+r1
+xCompileC
+xbuild/CameraView.build/Release/CameraView.build/Objects-normal/i386/main.o
+x/Users/dennis/Documents/CameraView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/dennis/Documents/CameraView/main.m336503624#336503624#0(0"0(0#0#41"/Users/dennis/Documents/CameraView/main.m8605072352#1559"    cd /Users/dennis/Documents/CameraView    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-generated-files.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-own-target-headers.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-all-target-headers.hmap -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-project-headers.hmap -F/Users/dennis/Documents/CameraView/build/Release -F/Users/dennis/Documents/CameraView/../../Downloads/BWToolkit -I/Users/dennis/Documents/CameraView/build/Release/include -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources/i386 -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources -include /var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-hipfmvqpbutyznerpscdgsnrtjpz/CameraView_Prefix.pch -c /Users/dennis/Documents/CameraView/main.m -o /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/main.o0#
+
+CCompileC build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraViewAppDelegate.o /Users/dennis/Documents/CameraView/CameraViewAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s336503624.890479
+e336503625.063883
+r1
+xCompileC
+xbuild/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraViewAppDelegate.o
+x/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m: In function '-[CameraViewAppDelegate startStopAction:]':
+o/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: 'CameraViewAppDelegate' may not respond to '-start'
+o/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: (Messages without a matching method signature
+o/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: will be assumed to return 'id' and accept
+o/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: '...' as arguments.)
+lSLF07#2@66"Compile /Users/dennis/Documents/CameraView/CameraViewAppDelegate.m336503624#336503625#0(570"/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m: In function '-[CameraViewAppDelegate startStopAction:]':/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: 'CameraViewAppDelegate' may not respond to '-start'/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: (Messages without a matching method signature/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: will be assumed to return 'id' and accept/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m:159: warning: '...' as arguments.)2(22@51"'CameraViewAppDelegate' may not respond to '-start'336503624#117#125#0(6@58"/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m336503620#159#0#159#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)336503624#242#119#0(6@58"/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m336503620#159#0#159#0#0"0(0#0#58"/Users/dennis/Documents/CameraView/CameraViewAppDelegate.m8601618720#1599"    cd /Users/dennis/Documents/CameraView    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-generated-files.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-own-target-headers.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-all-target-headers.hmap -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-project-headers.hmap -F/Users/dennis/Documents/CameraView/build/Release -F/Users/dennis/Documents/CameraView/../../Downloads/BWToolkit -I/Users/dennis/Documents/CameraView/build/Release/include -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources/x86_64 -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources -include /var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-ajhyevrthwdgjefhhwxokvejyirj/CameraView_Prefix.pch -c /Users/dennis/Documents/CameraView/CameraViewAppDelegate.m -o /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraViewAppDelegate.o0#
+
+CCompileC build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/main.o /Users/dennis/Documents/CameraView/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s336503624.889922
+e336503624.961449
+r1
+xCompileC
+xbuild/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/main.o
+x/Users/dennis/Documents/CameraView/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/dennis/Documents/CameraView/main.m336503624#336503624#0(0"0(0#0#41"/Users/dennis/Documents/CameraView/main.m8605626752#1565"    cd /Users/dennis/Documents/CameraView    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-generated-files.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-own-target-headers.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-all-target-headers.hmap -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-project-headers.hmap -F/Users/dennis/Documents/CameraView/build/Release -F/Users/dennis/Documents/CameraView/../../Downloads/BWToolkit -I/Users/dennis/Documents/CameraView/build/Release/include -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources/x86_64 -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources -include /var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-ajhyevrthwdgjefhhwxokvejyirj/CameraView_Prefix.pch -c /Users/dennis/Documents/CameraView/main.m -o /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/dennis/Documents/CameraView/English.lproj/MainMenu.xib
+s336503994.136937
+e336503994.343773
+r1
+xCompileXIB
+x/Users/dennis/Documents/CameraView/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib336503994#336503994#0(0"0(0#0#61"/Users/dennis/Documents/CameraView/English.lproj/MainMenu.xib8607929600#357"    cd /Users/dennis/Documents/CameraView    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Resources/English.lproj/MainMenu.nib /Users/dennis/Documents/CameraView/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s336503835.239363
+e336503835.253355
+r1
+xCopyStringsFile
+x/Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings336503835#336503835#0(0"0(0#0#66"/Users/dennis/Documents/CameraView/English.lproj/InfoPlist.strings8606118432#362"    cd /Users/dennis/Documents/CameraView    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/CameraView.app/Contents/Resources/Icon.icns Icon.icns
+s336503835.240063
+e336503835.242638
+r1
+xCpResource
+xbuild/Release/CameraView.app/Contents/Resources/Icon.icns
+xIcon.icns
+lSLF07#2@14"Copy Icon.icns336503835#336503835#0(0"0(0#0#44"/Users/dennis/Documents/CameraView/Icon.icns8605842016#353"    cd /Users/dennis/Documents/CameraView    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/dennis/Documents/CameraView/Icon.icns /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/MacOS/CameraView normal "x86_64 i386"
+s336503835.471426
+e336503835.472921
+r1
+xCreateUniversalBinary
+x/Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/MacOS/CameraView
+xnormal
+xx86_64 i386
+lSLF07#2@97"CreateUniversalBinary build/Release/CameraView.app/Contents/MacOS/CameraView normal "x86_64 i386"336503835#336503835#0(0"0(0#0#46"/Users/dennis/Documents/CameraView/x86_64 i3868608007584#396"    cd /Users/dennis/Documents/CameraView    /usr/bin/lipo -create /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraView /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraView -output /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/MacOS/CameraView0#
+
+CGenerateDSYMFile /Users/dennis/Documents/CameraView/build/Release/CameraView.app.dSYM /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/MacOS/CameraView
+s336503835.472966
+e336503835.480990
+r1
+xGenerateDSYMFile
+x/Users/dennis/Documents/CameraView/build/Release/CameraView.app.dSYM
+x/Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/MacOS/CameraView
+lSLF07#2@105"GenerateDSYMFile build/Release/CameraView.app.dSYM build/Release/CameraView.app/Contents/MacOS/CameraView336503835#336503835#0(0"0(0#0#89"/Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/MacOS/CameraView8607859520#236"    cd /Users/dennis/Documents/CameraView    /Developer/usr/bin/dsymutil /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/MacOS/CameraView -o /Users/dennis/Documents/CameraView/build/Release/CameraView.app.dSYM0#
+
+CLd /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraView normal i386
+s336503835.450972
+e336503835.471381
+r1
+xLd
+x/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraView
+xnormal
+xi386
+lSLF07#2@118"Link /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraView336503835#336503835#0(0"0(0#0#0"8608047168#645"    cd /Users/dennis/Documents/CameraView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/dennis/Documents/CameraView/build/Release -F/Users/dennis/Documents/CameraView/build/Release -F/Users/dennis/Documents/CameraView/../../Downloads/BWToolkit -filelist /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraView.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework QTKit -o /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/i386/CameraView0#
+
+CLd /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraView normal x86_64
+s336503835.450430
+e336503835.471239
+r1
+xLd
+x/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraView
+xnormal
+xx86_64
+lSLF07#2@120"Link /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraView336503835#336503835#0(0"0(0#0#0"8608082656#651"    cd /Users/dennis/Documents/CameraView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/dennis/Documents/CameraView/build/Release -F/Users/dennis/Documents/CameraView/build/Release -F/Users/dennis/Documents/CameraView/../../Downloads/BWToolkit -filelist /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraView.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework QTKit -o /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/Objects-normal/x86_64/CameraView0#
+
+CProcessInfoPlistFile /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Info.plist CameraView-Info.plist
+s336503835.236815
+e336503835.239319
+r1
+xProcessInfoPlistFile
+x/Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Info.plist
+xCameraView-Info.plist
+lSLF07#2@29"Process CameraView-Info.plist336503835#336503835#0(0"0(0#0#56"/Users/dennis/Documents/CameraView/CameraView-Info.plist8607814016#311"    cd /Users/dennis/Documents/CameraView    builtin-infoPlistUtility CameraView-Info.plist -genpkginfo /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/dennis/Documents/CameraView/build/Release/CameraView.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-ajhyevrthwdgjefhhwxokvejyirj/CameraView_Prefix.pch.gch CameraView_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s336503621.167319
+e336503624.768968
+r1
+xProcessPCH
+x/var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-ajhyevrthwdgjefhhwxokvejyirj/CameraView_Prefix.pch.gch
+xCameraView_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile CameraView_Prefix.pch336503621#336503624#0(0"0(0#0#56"/Users/dennis/Documents/CameraView/CameraView_Prefix.pch8605093408#1470"    cd /Users/dennis/Documents/CameraView    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-generated-files.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-own-target-headers.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-all-target-headers.hmap -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-project-headers.hmap -F/Users/dennis/Documents/CameraView/build/Release -F/Users/dennis/Documents/CameraView/../../Downloads/BWToolkit -I/Users/dennis/Documents/CameraView/build/Release/include -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources/x86_64 -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources -c /Users/dennis/Documents/CameraView/CameraView_Prefix.pch -o /var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-ajhyevrthwdgjefhhwxokvejyirj/CameraView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-hipfmvqpbutyznerpscdgsnrtjpz/CameraView_Prefix.pch.gch CameraView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s336503621.167940
+e336503624.889854
+r1
+xProcessPCH
+x/var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-hipfmvqpbutyznerpscdgsnrtjpz/CameraView_Prefix.pch.gch
+xCameraView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile CameraView_Prefix.pch336503621#336503624#0(0"0(0#0#56"/Users/dennis/Documents/CameraView/CameraView_Prefix.pch8604781728#1466"    cd /Users/dennis/Documents/CameraView    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-generated-files.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-own-target-headers.hmap -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-all-target-headers.hmap -iquote /Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/CameraView-project-headers.hmap -F/Users/dennis/Documents/CameraView/build/Release -F/Users/dennis/Documents/CameraView/../../Downloads/BWToolkit -I/Users/dennis/Documents/CameraView/build/Release/include -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources/i386 -I/Users/dennis/Documents/CameraView/build/CameraView.build/Release/CameraView.build/DerivedSources -c /Users/dennis/Documents/CameraView/CameraView_Prefix.pch -o /var/folders/Lx/Lxop0PaNGyCQRzRs-MPIxE+++UQ/-Caches-/com.apple.Xcode.519/SharedPrecompiledHeaders/CameraView_Prefix-hipfmvqpbutyznerpscdgsnrtjpz/CameraView_Prefix.pch.gch0#
+
+CTouch /Users/dennis/Documents/CameraView/build/Release/CameraView.app
+s336503994.344366
+e336503994.345734
+r1
+xTouch
+x/Users/dennis/Documents/CameraView/build/Release/CameraView.app
+lSLF07#2@69"Touch /Users/dennis/Documents/CameraView/build/Release/CameraView.app336503994#336503994#0(0"0(0#0#0"8602454976#128"    cd /Users/dennis/Documents/CameraView    /usr/bin/touch -c /Users/dennis/Documents/CameraView/build/Release/CameraView.app0#
+

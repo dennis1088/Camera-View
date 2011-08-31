@@ -14,7 +14,6 @@
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 		952A7CB214069F31009A2922 /* QTKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 952A7CB114069F31009A2922 /* QTKit.framework */; };
 		952A7D5C1406C2E3009A2922 /* Icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 952A7D5B1406C2E3009A2922 /* Icon.icns */; };
-		95C9E18C140E7E7200C40976 /* BWToolkitFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 95C9E18B140E7E7200C40976 /* BWToolkitFramework.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,7 +31,6 @@
 		8D1107320486CEB800E47090 /* CameraView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CameraView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		952A7CB114069F31009A2922 /* QTKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QTKit.framework; path = System/Library/Frameworks/QTKit.framework; sourceTree = SDKROOT; };
 		952A7D5B1406C2E3009A2922 /* Icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Icon.icns; sourceTree = "<group>"; };
-		95C9E18B140E7E7200C40976 /* BWToolkitFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BWToolkitFramework.framework; path = /Users/dennis/Downloads/BWToolkit/BWToolkitFramework.framework; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +40,6 @@
 			files = (
 				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
 				952A7CB214069F31009A2922 /* QTKit.framework in Frameworks */,
-				95C9E18C140E7E7200C40976 /* BWToolkitFramework.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -92,7 +89,6 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
-				95C9E18B140E7E7200C40976 /* BWToolkitFramework.framework */,
 			);
 			name = CameraView;
 			sourceTree = "<group>";
